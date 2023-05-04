@@ -142,7 +142,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'potholepatrolteam@gmail.com'
-EMAIL_HOST_PASSWORD = 'nkdermauhutuegqi'
+EMAIL_HOST_PASSWORD = ''
 
 
 REST_FRAMEWORK = {
